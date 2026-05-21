@@ -1,2 +1,2 @@
 def subtraction():
-  pass
+  return a-b
